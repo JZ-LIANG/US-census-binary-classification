@@ -1,0 +1,9 @@
+# MAC
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.ipynb_checkpoints
+#
+us_census_full/*
+test/*
